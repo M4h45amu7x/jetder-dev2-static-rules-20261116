@@ -1,0 +1,5 @@
+{
+  "name": "dev2-static-rules-fixture",
+  "private": true,
+  "scripts": { "build": "node build.mjs" }
+}
